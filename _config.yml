@@ -1,5 +1,5 @@
 title: ""
-footer: ""
+no_footer: true
 remote_theme: "jekyll/minima@7d91bb5"
 minima:
   skin: auto
